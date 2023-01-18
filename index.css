@@ -1,0 +1,35 @@
+h1 {
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+#availabletruckstable {
+    width: 900px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#alltours {
+    margin-top: 20px;
+    margin-left: 430px;
+}
+
+#addtour {
+    margin-left: 90px;
+    margin-top: 5px;
+}
+
+#tablice-p {
+    width: 250px;
+}
+
+
+.pretrazivanje {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#sorttour {
+    margin-top: 5px;
+}
